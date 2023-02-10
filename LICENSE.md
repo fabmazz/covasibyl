@@ -1,4 +1,5 @@
 Covasibyl
+
 Copyright (C) 2023  Fabio Mazza
 
 This program is free software: you can redistribute it and/or modify
